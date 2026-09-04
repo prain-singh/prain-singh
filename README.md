@@ -14,36 +14,19 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 I'm an aspiring **Software Developer** with a strong interest in **Python, SQL, Data Analytics, Machine Learning, and Generative AI**.
 
 I enjoy building practical projects, exploring new technologies, analyzing data, and turning ideas into working applications.
 
-```python
-class Prain:
+### 🔍 What I'm Currently Focused On
 
-    def __init__(self):
-        self.name = "Prain Singh"
-        self.role = "Aspiring Software Developer"
-        self.languages = ["Python", "Java", "C++", "SQL"]
-        self.interests = [
-            "Software Development",
-            "Machine Learning",
-            "Data Analytics",
-            "Generative AI",
-            "Database Systems"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building real-world projects",
-            "Improving DSA & problem solving",
-            "Learning Machine Learning",
-            "Exploring Generative AI"
-        ]
-```
+- 🐍 Strengthening **Python & SQL**
+- 🧠 Improving **DSA & problem-solving**
+- 🤖 Learning and building with **Machine Learning & Generative AI**
+- 📊 Working on **Data Analytics & Visualization**
+- 🚀 Building **real-world projects**
 
 ---
 
